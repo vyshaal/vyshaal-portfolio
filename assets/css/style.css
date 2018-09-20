@@ -281,7 +281,7 @@ ul.list-check li::before {
 }
 
 #home {
-	background: url(../images/vc.JPG) no-repeat center center;
+	background: url(../images/vc.jpg) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #222;
@@ -292,7 +292,7 @@ ul.list-check li::before {
 
 #home:before {
 	content: "";
-	background-color: rgba(26, 30, 35, 0.7);
+	background-color: rgba(26, 30, 35, 0.2);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -300,8 +300,9 @@ ul.list-check li::before {
 	height: 100%;
 }
 #profile-card-header {
-    color:#6B1112;
-    font-size: 42px;
+    /*color: #882F1F;*/
+    color: 	#18243E;
+    font-size: 35px;
     line-height: 65px;
 }
 .intro {
@@ -323,10 +324,11 @@ ul.list-check li::before {
 }
 
 .intro h1{
-	font-size: 55px;
-	line-height: 70px;
-	margin-bottom: 5px;
-	color: #CAC8D5;
+	font-size: 42px;
+	line-height: 60px;
+	margin-bottom: 1px;
+    color: 	#EF4637;
+	/*color: 	#18243E;*/
 }
 
 .intro h1 span{

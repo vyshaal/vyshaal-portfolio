@@ -4,7 +4,7 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Software Developer", "Data Scientist"],
+            strings: ["CS Graduate'18", "Software Developer", "Data Scientist"],
             typeSpeed: 0.3,
             loop: true
         });
